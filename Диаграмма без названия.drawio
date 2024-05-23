@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T10:39:26.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Vwere1XWtVFwh52OXp2s" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T10:40:09.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Vtp4Ap_zF2CByvRlTwtt" version="24.4.6" type="github">
   <diagram name="Страница — 1" id="DUjbO_lCwUIh7EZs8qsn">
     <mxGraphModel dx="573" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,6 +101,11 @@
         <mxCell id="svQDPKIYkcb3EGDweqrt-21" value="Соединение блока питания с корпусом" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="100" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="svQDPKIYkcb3EGDweqrt-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="svQDPKIYkcb3EGDweqrt-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="svQDPKIYkcb3EGDweqrt-22" value="Соединение камеры с корпусом" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="185" width="60" height="30" as="geometry" />
         </mxCell>
@@ -113,8 +118,10 @@
         <mxCell id="svQDPKIYkcb3EGDweqrt-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="svQDPKIYkcb3EGDweqrt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="svQDPKIYkcb3EGDweqrt-25" target="svQDPKIYkcb3EGDweqrt-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="svQDPKIYkcb3EGDweqrt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="svQDPKIYkcb3EGDweqrt-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="svQDPKIYkcb3EGDweqrt-25" value="Установка GoPro камеры в корпусе" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="265" width="60" height="30" as="geometry" />
